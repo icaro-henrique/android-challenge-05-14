@@ -4,7 +4,7 @@ Repositório para armazenamento dos resultados da atividade de Android do LIS em
 
 Setup do ambiente:
 =======================
-- Instalar o Android Studio
+- Instalar o Android Studio (Instaladores estão na máquina 08, na pasta no desktop)
 - Instalar o Genymotion
 - Instalar plugin do Genymotion para o Android Studio
 - Baixar o emulador do Nexus 5 no Genymotion
