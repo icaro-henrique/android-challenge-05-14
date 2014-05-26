@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LisApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hello">HelloActivity</string>
+    <string name="title_activity_list_name">ListNameActivity</string>
+    <string name="title_activity_content_name">ContentNameActivity</string>
+
+</resources>
