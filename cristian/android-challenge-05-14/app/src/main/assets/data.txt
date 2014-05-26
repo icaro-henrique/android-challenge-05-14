@@ -1,0 +1,17 @@
+Pedro Henrique;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/PedroHenrique3.jpg;Bolsista
+Pedro Gyrão;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/OutroPedro1.jpg;Bolsista
+Natan Facchin;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/Natan1.jpg;Bolsista
+Ana Luiza;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/AnaLuiza1.jpg;Líder técnico
+Alex Ávila;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/Alex4.jpg;Suporte técnico
+Cristovam Lage;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/Cristovam1.jpg;Bolsista
+Ícaro Raupp;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/Icaro3.jpg;Líder técnico
+Ildevana Rodrigues;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/Ildevana2.jpg;Bolsista
+Júlia Freitas;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/Julia1.jpg;Bolsista
+Juliana Damasio;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/Juliana1.jpg;Bolsista
+Luís Campani;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/Luiz1.jpg;Bolsista
+Rafael Lima;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/Rafael2.jpg;Bolsista
+Débora Almeida;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/Debora2.jpg;Bolsista
+Marcelo Yamaguti;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/Yamaguti.jpg;Professor
+Cristian Madrid;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/Cristian1.jpg;Bolsista
+Lidia Schaab;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/LidiaSchaab.jpg;Auxiliar administrativa
+Anderson Silva;http://www.cpca.pucrs.br/wp/wp-content/uploads/2014/04/AndersonSilva.jpg;Gerente

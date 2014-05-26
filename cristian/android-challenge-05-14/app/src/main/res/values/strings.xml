@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android-challenge-05-14</string>
+    <string name="keyName">savedName</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tela1">Tela1</string>
+    <string name="title_activity_tela2">Tela2</string>
+    <string name="hello_world">Hello worlds!</string>
+    <string name="title_activity_user_profile">UserProfile</string>
+
+</resources>
